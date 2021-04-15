@@ -1,0 +1,8 @@
+/foo       https://example.com/foo
+/example   https://example.com
+/github    https://github.com/chadmcrowell
+/twitter   https://twitter.com/chadmcrowell
+
+
+#fallback
+/*         https://cmcrowell.com
