@@ -1,9 +1,10 @@
-/youtube   https://youtube.com
-/foo       https://example.com/foo
-/example   https://example.com
-/github    https://github.com/chadmcrowell
-/twitter   https://twitter.com/chadmcrowell
+/terraform   https://github.com/chadmcrowell/k8s-up-and-running/tree/main/terraform
+/youtube     https://youtube.com
+/foo         https://example.com/foo
+/example     https://example.com
+/github      https://github.com/chadmcrowell
+/twitter     https://twitter.com/chadmcrowell
 
 
 #fallback
-/*         https://cmcrowell.com
+/*           https://github.com/chadmcrowell/k8s-up-and-running
